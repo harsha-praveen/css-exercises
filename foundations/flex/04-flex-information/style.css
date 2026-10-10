@@ -20,12 +20,8 @@ img {
   gap: 52px;
 }
 
-.item img {
-  text-align: center;
-}
-
 .item {
-  max-width: 200px;
+  width: 200px;
 }
 
 .text {
